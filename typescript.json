@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "adjacent-overload-signatures": true,
+    "member-access": false,
+    "no-empty-interface": true,
+    "only-arrow-functions": true
+  }
+}

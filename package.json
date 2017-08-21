@@ -1,0 +1,20 @@
+{
+  "name": "tslint-config-storytel",
+  "version": "1.0.0",
+  "description": "TypeScript configuration rules",
+  "main": "./tslint-base.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/storytel/tslint-config-storytel.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "lint"
+  ],
+  "author": "Alexander Olsson <noseglid@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/storytel/tslint-config-storytel/issues"
+  },
+  "homepage": "https://github.com/storytel/tslint-config-storytel#readme"
+}

@@ -1,0 +1,23 @@
+{
+  "rules": {
+    "array-type": [ true, "array" ],
+    "arrow-parens": true,
+    "arrow-return-shorthand": true,
+    "callable-types": true,
+    "class-name": true,
+    "encoding": true,
+    "import-spacing": true,
+    "interface-over-type-literal": true,
+    "no-consecutive-blank-lines": [ true, 1 ],
+    "no-irregular-whitespace": true,
+    "no-parameter-properties": true,
+    "no-trailing-whitespace": true,
+    "one-variable-per-declaration": true,
+    "ordered-imports": true,
+    "prefer-template": true,
+    "quotemark": [ true, "single", "jsx-double", "avoid-escape" ],
+    "semicolon": [ true, "always" ],
+    "space-before-function-paren": [ true, "always" ],
+    "whitespace": [ true, "check-branch", "check-operator", "check-module", "check-separator" ]
+  }
+}

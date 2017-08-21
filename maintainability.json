@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "eofline": true,
+    "indent": [ true, "spaces", 2 ],
+    "linebreak-style": [ true, "LF" ],
+    "no-duplicate-imports": true,
+    "no-require-imports": true
+  }
+}

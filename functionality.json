@@ -1,0 +1,22 @@
+{
+  "rules": {
+    "curly": true,
+    "no-conditional-assignment": true,
+    "no-console": true,
+    "no-construct": true,
+    "no-debugger": true,
+    "no-duplicate-super": true,
+    "no-duplicate-variable": true,
+    "no-empty": true,
+    "no-eval": true,
+    "no-string-literal": true,
+    "no-string-throw": true,
+    "no-switch-case-fall-through": true,
+    "no-unused-expression": true,
+    "no-var-keyword": true,
+    "radix": true,
+    "triple-equals": true,
+    "typeof-compare": true,
+    "use-isnan": true
+  }
+}
