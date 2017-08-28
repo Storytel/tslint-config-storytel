@@ -3,6 +3,8 @@
     "adjacent-overload-signatures": true,
     "member-access": false,
     "no-empty-interface": true,
-    "only-arrow-functions": true
+    "no-unnecessary-type-assertion": true,
+    "only-arrow-functions": true,
+    "promise-function-async": true
   }
 }
