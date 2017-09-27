@@ -29,7 +29,7 @@
           "enum": "always",
           "functions": "never",
           "typeLiterals": "ignore",
-          "imports": "never",
+          "imports": "always",
           "exports": "never"
         },
         "singleline": "never"
