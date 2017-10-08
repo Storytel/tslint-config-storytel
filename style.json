@@ -10,7 +10,7 @@
     "interface-over-type-literal": true,
     "no-consecutive-blank-lines": [ true, 1 ],
     "no-irregular-whitespace": true,
-    "no-parameter-properties": true,
+    "no-parameter-properties": false,
     "no-trailing-whitespace": true,
     "one-variable-per-declaration": true,
     "ordered-imports": true,
