@@ -1,6 +1,6 @@
 {
   "rules": {
-    "array-type": [ true, "array" ],
+    "array-type": [true, "array"],
     "arrow-parens": true,
     "arrow-return-shorthand": true,
     "callable-types": true,
@@ -8,18 +8,24 @@
     "encoding": true,
     "import-spacing": true,
     "interface-over-type-literal": true,
-    "no-consecutive-blank-lines": [ true, 1 ],
+    "no-consecutive-blank-lines": [true, 1],
     "no-irregular-whitespace": true,
     "no-parameter-properties": false,
     "no-trailing-whitespace": true,
     "one-variable-per-declaration": true,
     "ordered-imports": true,
     "prefer-template": true,
-    "quotemark": [ true, "single", "jsx-double", "avoid-escape" ],
+    "quotemark": [true, "single", "jsx-double", "avoid-escape"],
     "return-undefined": true,
-    "semicolon": [ true, "always" ],
-    "space-before-function-paren": [ true, "always" ],
-    "whitespace": [ true, "check-branch", "check-operator", "check-module", "check-separator" ],
+    "semicolon": [true, "always", "ignore-bound-class-methods"],
+    "space-before-function-paren": [false, "always"],
+    "whitespace": [
+      true,
+      "check-branch",
+      "check-operator",
+      "check-module",
+      "check-separator"
+    ],
     "trailing-comma": [
       true,
       {
@@ -30,7 +36,7 @@
           "functions": "never",
           "typeLiterals": "ignore",
           "imports": "always",
-          "exports": "never"
+          "exports": "always"
         },
         "singleline": "never"
       }
